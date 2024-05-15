@@ -1,8 +1,11 @@
 const { getJson } = require("serpapi");
 const natural = require("natural");
 const Sentiment = require("sentiment");
-const { google_search_news_data } =
-  require("../example-response/google-search-news");
+const stemmer = natural.PorterStemmer;
+const fs = require('fs');
+const {
+  google_search_news_data,
+} = require("../example-response/google-search-news");
 
 const tokenizer = new natural.WordTokenizer();
 const sentiment = new Sentiment();
@@ -38,14 +41,28 @@ async function getNews(req, res) {
     const newsResults = data.news_results;
     let sentimentScores = [];
     let allTokens = [];
+    let positiveTokens = [];
+    let negativeTokens = [];
+    let neutralTokens = [];
 
     newsResults.forEach((news) => {
       const text = `${news.title} ${news.snippet}`;
       const processedText = processText(text);
-      const processedTextWordCloud = processTextWordCloud(text);
-      allTokens = allTokens.concat(processedTextWordCloud);
       const sentimentResult = analyzeSentiment(processedText.join(" "));
       sentimentScores.push(sentimentResult.score);
+
+      // Add tokens to respective arrays based on sentiment score
+      const processedTextWordCloud = processTextWordCloud(text);
+      if (sentimentResult.score > 0) {
+        positiveTokens = positiveTokens.concat(processedTextWordCloud);
+      } else if (sentimentResult.score < 0) {
+        negativeTokens = negativeTokens.concat(processedTextWordCloud);
+      } else {
+        neutralTokens = neutralTokens.concat(processedTextWordCloud);
+      }
+
+      // Combine all tokens for overall wordcloud
+      allTokens = allTokens.concat(processedTextWordCloud);
     });
 
     const averageSentiment =
@@ -53,15 +70,18 @@ async function getNews(req, res) {
 
     res.json({
       averageSentiment,
-      positiveNews: newsResults.filter(
-        (news, index) => sentimentScores[index] > 0
-      ),
-      negativeNews: newsResults.filter(
-        (news, index) => sentimentScores[index] < 0
-      ),
-      neutralNews: newsResults.filter(
-        (news, index) => sentimentScores[index] === 0
-      ),
+      positiveNews: {
+        news: newsResults.filter((news, index) => sentimentScores[index] > 0),
+        wordCloudTokens: positiveTokens,
+      },
+      negativeNews: {
+        news: newsResults.filter((news, index) => sentimentScores[index] < 0),
+        wordCloudTokens: negativeTokens,
+      },
+      neutralNews: {
+        news: newsResults.filter((news, index) => sentimentScores[index] === 0),
+        wordCloudTokens: neutralTokens,
+      },
       wordTokens: allTokens,
     });
   } catch (error) {
@@ -69,14 +89,54 @@ async function getNews(req, res) {
   }
 }
 
+// function processText(text) {
+//   const tokens = tokenizer.tokenize(text);
+//   return tokens;
+// }
+
+// function analyzeSentiment(text) {
+//   const result = sentiment.analyze(text);
+//   return result;
+// }
+
+// Baca file teks yang berisi daftar kata positif dan negatif
+function readWordList(filename) {
+  return fs.readFileSync(filename, 'utf8').split('\n').map(word => word.trim());
+}
+
 function processText(text) {
+  // Tokenisasi teks menjadi kata-kata
   const tokens = tokenizer.tokenize(text);
-  return tokens;
+  
+  // Lakukan stemming untuk setiap kata
+  const stemmedTokens = tokens.map(token => stemmer.stem(token));
+  
+  return stemmedTokens;
 }
 
 function analyzeSentiment(text) {
-  const result = sentiment.analyze(text);
-  return result;
+  const positiveWords = readWordList('api/document/positive.txt');
+  const negativeWords = readWordList('api/document/negative.txt');
+
+  const words = text.split(' ');
+  let positiveCount = 0;
+  let negativeCount = 0;
+
+  words.forEach(word => {
+    if (positiveWords.includes(word)) {
+      positiveCount++;
+    } else if (negativeWords.includes(word)) {
+      negativeCount++;
+    }
+  });
+
+  if (positiveCount > negativeCount) {
+    return { result: 'positif', score: 1};
+  } else if (negativeCount > positiveCount) {
+    return { result: 'negatif', score: -1};
+  } else {
+    return { result: 'netral', score: 0};
+  }
 }
 
 function normalizeText(text) {
