@@ -211,7 +211,7 @@ app.get("/search/tribunnews/:keyword", async (req, res) => {
   res.end(JSON.stringify(result));
 });
 
-app.get("/search/google/:keyword", li.getNews);
+app.get("/search/google", li.getNews);
 
 app.listen(process.env.PORT || port, () => {
   console.log(`Web app listening on port ${port}`);
