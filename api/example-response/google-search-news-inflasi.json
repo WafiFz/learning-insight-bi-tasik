@@ -1,0 +1,985 @@
+{
+  "search_metadata": {
+    "id": "6646c6fbf26ac60c4195fd18",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3f0c6d53f4fa6d8d/6646c6fbf26ac60c4195fd18.json",
+    "created_at": "2024-05-17 02:54:51 UTC",
+    "processed_at": "2024-05-17 02:54:51 UTC",
+    "google_url": "https://www.google.com/search?q=inflasi&oq=inflasi&hl=en&gl=id&num=99999&tbm=nws&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/3f0c6d53f4fa6d8d/6646c6fbf26ac60c4195fd18.html",
+    "total_time_taken": 3.99
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "inflasi",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "id",
+    "num": "99999",
+    "device": "desktop",
+    "tbm": "nws"
+  },
+  "search_information": {
+    "query_displayed": "inflasi",
+    "total_results": 17500,
+    "time_taken_displayed": 0.35,
+    "news_results_state": "Results for exact spelling"
+  },
+  "people_also_search_for": [
+    {
+      "name": "News about Rupiah, Inflasi",
+      "news_results": [
+        {
+          "position": 1,
+          "link": "https://mediaindonesia.com/ekonomi/671463/rupiah-menguat-dipengaruhi-inflasi-as-turun",
+          "title": "Rupiah Menguat Dipengaruhi Inflasi AS Turun",
+          "source": "Media Indonesia",
+          "date": "17 hours ago",
+          "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/22ddb21d9f5fe01d45a148760cfc43b6ac7c6e74a9c2310cb27a898117c86e1d9fbfb745676dea0de80d219ecdab221526dd0cbf91f5c6f2.jpeg"
+        },
+        {
+          "position": 2,
+          "link": "https://jabar.antaranews.com/berita/515424/kurs-rupiah-menguat-dipengaruhi-penurunan-inflasi-indeks-harga-konsumen-as",
+          "title": "Kurs rupiah menguat dipengaruhi penurunan inflasi Indeks Harga Konsumen AS",
+          "source": "ANTARA News Jawa Barat",
+          "date": "18 hours ago",
+          "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/22ddb21d9f5fe01d45a148760cfc43b6ac7c6e74a9c2310cb27a898117c86e1d90156c3c8d63510103311de3ece82745c7c70d0e2fe5b569.jpeg"
+        },
+        {
+          "position": 3,
+          "link": "https://www.cnbcindonesia.com/market/20240516150305-17-538735/inflasi-as-mulai-terkendali-dolar-kembali-turun-ke-rp15920-us-",
+          "title": "Inflasi AS Mulai Terkendali, Dolar Kembali Turun ke Rp15.920/US$",
+          "source": "CNBC Indonesia",
+          "date": "19 hours ago",
+          "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/22ddb21d9f5fe01d45a148760cfc43b6ac7c6e74a9c2310cb27a898117c86e1d62a73a4e43aceba74f756f0d4aacb2f4d47b829ca673d1d8.jpeg"
+        }
+      ],
+      "view_full_coverage_link": "https://www.google.com/search?q=inflasi&num=100&sca_esv=7eaaf1f71c224ebe&sca_upv=1&gl=id&hl=en&tbm=nws&story=GkIIpQEaHQoTc3RvcnlfbGFiZWxfcGFydGlhbBIGUnVwaWFoGh4KE3N0b3J5X2xhYmVsX3BhcnRpYWwSB0luZmxhc2kyMAomjfK706v9yfVfmN2t-OjYiIfvAY6LsoHn2v7Z2AGIlfu7xcLIoHwQ68yGzQsYBXICEAI&fcs=ACgqzecHDB1lDC3nYtuCGrjzmx941clBEA&sa=X&ved=2ahUKEwiIkMfO15OGAxWdKFkFHeyqCZEQ7IUHegUIuwEQBQ"
+    },
+    {
+      "name": "News about Wall Street, Inflasi",
+      "news_results": [
+        {
+          "position": 1,
+          "link": "https://www.cnbcindonesia.com/research/20240515203332-128-538472/wall-street-naik-sp-500-cetak-rekor-akibat-inflasi-as-terkendali",
+          "title": "Wall Street Naik, S&P 500 Cetak Rekor Akibat Inflasi AS Terkendali!",
+          "source": "CNBC Indonesia",
+          "date": "1 day ago",
+          "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/22ddb21d9f5fe01d45a148760cfc43b6429a73bcac38969350ea53a373b787282dbde6e5270e66da77679f922ea1e11e627bb110c0fe420c.jpeg"
+        },
+        {
+          "position": 2,
+          "link": "https://money.kompas.com/read/2024/05/16/073623726/ditopang-data-inflasi-as-wall-street-berakhir-di-zona-hijau",
+          "title": "Ditopang Data Inflasi AS, Wall Street Berakhir di Zona Hijau",
+          "source": "Kompas.com",
+          "date": "1 day ago",
+          "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/22ddb21d9f5fe01d45a148760cfc43b6429a73bcac38969350ea53a373b78728523d97ed7ade77a1d09b971f5be0777062d0b055bb7603b4.jpeg"
+        },
+        {
+          "position": 3,
+          "link": "https://finansial.kontan.co.id/news/pasar-asia-diperkirakan-akan-naik-namun-khawatirkan-inflasi-dan-tarif-baru",
+          "title": "Pasar Asia Diperkirakan akan Naik, Namun Khawatirkan Inflasi dan Tarif Baru",
+          "source": "kontan.co.id",
+          "date": "2 days ago",
+          "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/22ddb21d9f5fe01d45a148760cfc43b6429a73bcac38969350ea53a373b787281953bd803a6495a0bb2b207a362dcb22a1af13221c268f9c.jpeg"
+        }
+      ],
+      "view_full_coverage_link": "https://www.google.com/search?q=inflasi&num=100&sca_esv=7eaaf1f71c224ebe&sca_upv=1&gl=id&hl=en&tbm=nws&story=GkcIpQEaIgoTc3RvcnlfbGFiZWxfcGFydGlhbBILV2FsbCBTdHJlZXQaHgoTc3RvcnlfbGFiZWxfcGFydGlhbBIHSW5mbGFzaTIvCiX4hbqDgbqz2wrLwrOipYK37W2r25ig9_GUuMIBpNyJ5cOb-5hIEOGJitILGAVyAhAC&fcs=ACgqzedNZN5Eo0edt4ObjDWiZU4zeMF0lw&sa=X&ved=2ahUKEwiIkMfO15OGAxWdKFkFHeyqCZEQ7IUHegQIEhAF"
+    },
+    {
+      "name": "News about Harga, Emas and Inflasi",
+      "news_results": [
+        {
+          "position": 1,
+          "link": "https://investasi.kontan.co.id/news/harga-emas-diprediksi-makin-berkilau-usai-rilis-data-inflasi-as",
+          "title": "Harga Emas Diprediksi Makin Berkilau Usai Rilis Data Inflasi AS",
+          "source": "kontan.co.id",
+          "date": "22 hours ago",
+          "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/22ddb21d9f5fe01d45a148760cfc43b675119f969b789b0606840b26b9925c6e2a5eab9a2ce7319213880c1ceaa095e90ad28ac2c842ae91.jpeg"
+        },
+        {
+          "position": 2,
+          "link": "https://www.metrotvnews.com/read/bw6Co91P-harga-emas-naik-seiring-meredanya-inflasi-as",
+          "title": "Harga Emas Naik Seiring Meredanya Inflasi AS",
+          "source": "metrotvnews",
+          "date": "1 day ago",
+          "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/22ddb21d9f5fe01d45a148760cfc43b675119f969b789b0606840b26b9925c6e4d2a3a3e0d2462f0969e401092bd900c5e40eb08686bf9db.jpeg"
+        },
+        {
+          "position": 3,
+          "link": "https://www.bareksa.com/berita/emas/2024-05-16/inflasi-as-mereda-kerek-harga-emas-hari-ini-meroket-secara-teknikal-bisa-menuju-us2400",
+          "title": "Inflasi AS Mereda Kerek Harga Emas Hari Ini Meroket, Secara Teknikal Bisa Menuju US$2.400",
+          "source": "Bareksa.com",
+          "date": "22 hours ago",
+          "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/22ddb21d9f5fe01d45a148760cfc43b675119f969b789b0606840b26b9925c6e7debd326080c6adc98b36f23ddd4bcf6c25b948a4d2d4f94.jpeg"
+        }
+      ],
+      "view_full_coverage_link": "https://www.google.com/search?q=inflasi&num=100&sca_esv=7eaaf1f71c224ebe&sca_upv=1&gl=id&hl=en&tbm=nws&story=Gl4IpQEaHAoTc3RvcnlfbGFiZWxfcGFydGlhbBIFSGFyZ2EaGwoTc3RvcnlfbGFiZWxfcGFydGlhbBIERW1hcxoeChNzdG9yeV9sYWJlbF9wYXJ0aWFsEgdJbmZsYXNpMjEKJ-rEvP3x1N6AnwHg6bOT1tbEu8wBoary--qklpKvAe7zkY-Ntvz0RxCY3YPSCxgFcgIQAg&fcs=ACgqzef3Qvx2190gm3a4Uc82ca2mA88ztw&sa=X&ved=2ahUKEwiIkMfO15OGAxWdKFkFHeyqCZEQ7IUHegQISxAF"
+    }
+  ],
+  "news_results": [
+    {
+      "position": 1,
+      "link": "https://www.antaranews.com/berita/4107216/bi-dki-sebut-inflasi-terkendali-yang-didukung-lancarnya-pasokan-pangan",
+      "title": "BI DKI sebut inflasi terkendali yang didukung lancarnya pasokan pangan",
+      "source": "ANTARA News",
+      "date": "16 hours ago",
+      "snippet": "Bank Indonesia (BI) DKI Jakarta dalam laporannya menyebutkan inflasi semakin terkendali seiring lancarnya pasokan pangan dari daerah-daerah...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c583773ff57f820b32aad95ad02642558ce9873f9aed5573097.jpeg"
+    },
+    {
+      "position": 2,
+      "link": "https://insight.kontan.co.id/news/inflasi-amerika-serikat-bulan-april-naik-di-bawah-perkiraan-cpi-inti-melambat-1",
+      "title": "Inflasi Amerika Serikat Bulan April Naik di Bawah Perkiraan, CPI Inti Melambat",
+      "source": "KONTAN",
+      "date": "1 day ago",
+      "snippet": "Sumber: Reuters | Editor: Syamsul Azhar. KONTAN.CO.ID - WASHINGTON - Indeks Harga konsumen atau inflasi di Amerika Serikat pada bulan April...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c5845328b43757dfc19b099984c3aca3fae1c4e85e70ec8e441.jpeg"
+    },
+    {
+      "position": 3,
+      "link": "https://www.medcom.id/nasional/metro/nN92WjGb-faktor-cuaca-hingga-harga-pangan-diyakini-bikin-inflasi-jakarta-2024-terkendali",
+      "title": "Faktor Cuaca hingga Harga Pangan Diyakini Bikin Inflasi Jakarta 2024 Terkendali",
+      "source": "Medcom.id",
+      "date": "5 hours ago",
+      "snippet": "BI DKI Jakarta meyakini inflasi Jakarta pada 2024 semakin terkendali.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c585cd217c2fcb2d5dc81ff516df8c93b3fee2059a4fd3855e2.jpeg"
+    },
+    {
+      "position": 4,
+      "link": "https://www.bloombergtechnoz.com/detail-news/38021/10-poin-kesimpulan-penting-data-inflasi-as-memantik-euforia-beli",
+      "title": "10 Poin Kesimpulan Penting Data Inflasi AS, Memantik Euforia Beli - Global",
+      "source": "Bloomberg Technoz",
+      "date": "1 day ago",
+      "snippet": "Data inflasi April memberi kepercayaan diri pada pasar bahwa disinflasi kembali lagi dan rate cut masih mungkin dilakukan oleh The Fed tahun...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58330117adae585d2ff2e5e18f078633c2ba50b140ed94f6bc.jpeg"
+    },
+    {
+      "position": 5,
+      "link": "https://ekbis.harianjogja.com/read/2024/05/16/502/1174726/bi-diy-sebut-biaya-kuliah-berpotensi-kerek-inflasi",
+      "title": "BI DIY Sebut Biaya Kuliah Berpotensi Kerek Inflasi",
+      "source": "Harianjogja.com",
+      "date": "12 hours ago",
+      "snippet": "Harianjogja.com, JOGJA—Bank Indonesia (BI) DIY menilai biaya pendidikan khususnya perguruan tinggi berpotensi mengerek angka inflasi di DIY.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c589fe2c91ec8561a180507f1f0da7a22480183c94fe3fb14e1.jpeg"
+    },
+    {
+      "position": 6,
+      "link": "https://nasional.tempo.co/read/1868201/uin-sebut-ukt-naik-akibat-inflasi-kemendikbudristek-itu-keliru",
+      "title": "UIN Sebut UKT Naik Akibat Inflasi, Kemendikbudristek: Itu Keliru",
+      "source": "Nasional tempo",
+      "date": "1 day ago",
+      "snippet": "Kemendikbudristek merespons soal UIN Syarif Hidayatullah Jakarta yang menyatakan, kenaikan Uang Kuliah Tunggal (UKT) dipengaruhi oleh...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c581dc616d9f81fc5cd795abb2da1e146f7866d4ec938fae33d.jpeg"
+    },
+    {
+      "position": 7,
+      "link": "https://lombokpost.jawapos.com/ntb/1504656912/pantau-harga-jaga-pasokan-dan-gelar-pasar-murah-pj-gubernur-ntb-jalankan-sembilan-program-pengendalian-inflasi",
+      "title": "Pantau Harga, Jaga Pasokan, dan Gelar Pasar Murah, Pj Gubernur NTB: Jalankan Sembilan Program Pengendalian Inflasi - Lombok Post",
+      "source": "Lombok Post",
+      "date": "1 day ago",
+      "snippet": "Pj Gubernur NTB H Lalu Gita Ariadi menegaskan, Pemprov NTB bersama pihak terkait terus melakukan berbagai kebijakan mengendalikan inflasi.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58bc95b3d82abcd3f563be5ac7a326bd6ad75b968977e056c0.jpeg"
+    },
+    {
+      "position": 8,
+      "link": "https://bulelengkab.go.id/informasi/detail/berita/89_ini-strategi-dkpp-buleleng-tangani-inflasi",
+      "title": "Ini Strategi DKPP Buleleng Tangani Inflasi",
+      "source": "Pemkab Buleleng",
+      "date": "43 minutes ago",
+      "snippet": "Inflasi menjadi salah satu konsentrasi Pemerintah Kabupaten Buleleng dalam upaya menurunkan lonjakan pangan.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58f9bd17ca7d130a3f531a1cb323be3fd700394f2a77a38669.jpeg"
+    },
+    {
+      "position": 9,
+      "link": "https://ntbprov.go.id/post/inflasi-year-on-year-300-persen-mendagri-minta-pemda-terus-monitor-inflasi",
+      "title": "Inflasi Year on Year 3,00 Persen, Mendagri Minta Pemda Terus Monitor Inflasi",
+      "source": "Pemerintah Provinsi NTB",
+      "date": "2 days ago",
+      "snippet": "Mataram, NTB - Pemerintah Provinsi Nusa Tenggara Barat (NTB) menghadiri Rakor Pengendalian Inflasi melalui Zoom dan mendengarkan hasil Badan...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58aee237c041131333dfae818b1b7c8ac581250f5e412e3e0a.jpeg"
+    },
+    {
+      "position": 10,
+      "link": "https://palangkaraya.go.id/kendalikan-inflasi-terus-gelar-pasar-sembako-murah/",
+      "title": "Kendalikan Inflasi, Terus Gelar Pasar Sembako Murah – Pemerintah Kota Palangka Raya",
+      "source": "Pemerintah Kota Palangka Raya",
+      "date": "24 hours ago",
+      "snippet": "MEDIA CENTER, Palangka Raya – Operasi pasar sembako murah, telah menjadi program Pemerintah Kota (Pemko) Palangka Raya yang bertujuan untuk...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c585798b6de243f540d81e8c4268f89e97be886c472529c9014.jpeg"
+    },
+    {
+      "position": 11,
+      "link": "https://ppid.lampungprov.go.id/detail-post/Mendagri-Tekankan-Koordinasi-dan-Sinergi-Kepada-Pemerintah-Daerah-Dalam-Melaksanakan-Pengendalian-Inflasi",
+      "title": "Mendagri Tekankan Koordinasi dan Sinergi Kepada Pemerintah Daerah Dalam Melaksanakan Pengendalian Inflasi ...",
+      "source": "PPID Provinsi Lampung",
+      "date": "3 days ago",
+      "snippet": "Mendagri Tekankan Koordinasi dan Sinergi Kepada Pemerintah Daerah Dalam Melaksanakan Pengendalian InflasiBandar Lampung --- Pemerintah...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c588c154d056e28cb5ecc1f2cc3e61f73403f6cb005a4668ee0.jpeg"
+    },
+    {
+      "position": 12,
+      "link": "https://www.cnbcindonesia.com/market/20240516074239-17-538551/inflasi-as-mereda-rupiah-siap-menguat-hari-ini",
+      "title": "Inflasi AS Mereda, Rupiah Siap Menguat Hari Ini?",
+      "source": "CNBC Indonesia",
+      "date": "1 day ago",
+      "snippet": "Penguatan rupiah di hadapan dolar Amerika Serikat (AS) tampaknya masih potensi berlanjut setelah data inflasi AS.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c5883007fcd4d7b39748efbd6dd6f647f55206a503ce82e9b8a.jpeg"
+    },
+    {
+      "position": 13,
+      "link": "https://sulselprov.go.id/post/wakili-pangdam-pamen-ahli-bid-ekonomi-poksahli-hadiri-rakor-inflasi-pengendalian-inflasi-daerah-2024",
+      "title": "Wakili Pangdam, Pamen Ahli Bid. Ekonomi Poksahli Hadiri Rakor Inflasi Pengendalian Inflasi Daerah 2024",
+      "source": "Website Provinsi Sulawesi-Selatan",
+      "date": "3 days ago",
+      "snippet": "Makassar, sulselprov.go.id - Pamen Ahli Bidang Ekonomi Poksahli Kolonel Kav Demak Sianturi, S.E., mewakili Pangdam menghadiri Rapat...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58565dd51ddc6bdb12fe891460ea25506785d1d37bc5e27107.jpeg"
+    },
+    {
+      "position": 14,
+      "link": "https://mmc.kalteng.go.id/berita/read/43559/hadiri-rakor-yuas-elko-minta-masyarakat-gencarkan-gerakan-menanam-untuk-pengendalian-inflasi-kalteng",
+      "title": "Hadiri Rakor, Yuas Elko Minta Masyarakat Gencarkan Gerakan Menanam untuk Pengendalian Inflasi Kalteng",
+      "source": "mmckalteng",
+      "date": "3 days ago",
+      "snippet": "Kontribusi dari Rikah Mustika, 13 Mei 2024 11:39, Dibaca 183 kali. Hadiri Rakor, Yuas Elko Minta Masyarakat Gencarkan Gerakan Menanam untuk Pengendalian...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c5885801303041c56e59ffd2b59fcd30db40557392fa060da7a.jpeg"
+    },
+    {
+      "position": 15,
+      "link": "https://mc.tanahbumbukab.go.id/pemkab-tanbu-hadiri-rakor-pengendalian-inflasi-tahun-2024/",
+      "title": "Pemkab Tanbu Hadiri Rakor Pengendalian Inflasi Tahun 2024",
+      "source": "Pemerintah Kabupaten Tanah Bumbu",
+      "date": "3 days ago",
+      "snippet": "Asisten Bidang Perekonomian dan Pembangunan Kab. Tanah bumbu Eriyanto Rais menghadiri Rapat Koordinasi Pengendalian Inflasi Daerah.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58782344f9271a0746042f3e37bb6b2b1fa1ba5e81dab66533.jpeg"
+    },
+    {
+      "position": 16,
+      "link": "https://databoks.katadata.co.id/datapublish/2024/05/16/bulan-april-inflasi-pakaian-dan-alas-kaki-di-kota-bandar-lampung-0-36-",
+      "title": "Bulan April, Inflasi Pakaian dan Alas Kaki di Kota Bandar Lampung 0,36%",
+      "source": "Databoks",
+      "date": "18 hours ago",
+      "snippet": "Di antara 10 kelompok inflasi yang diukur di daerah ini, kelompok pakaian dan alas kaki menyumbang 0,41% inflasi daerah ini.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58d9c6d41439fff4b51164b1d8372d903bbf50b737421ba2b9.png"
+    },
+    {
+      "position": 17,
+      "link": "https://www.antaranews.com/video/4107390/inflasi-australia-diproyeksikan-turun-di-bawah-3-persen-pada-2024",
+      "title": "Inflasi Australia diproyeksikan turun di bawah 3 persen pada 2024 - ANTARA News",
+      "source": "ANTARA News",
+      "date": "15 hours ago",
+      "snippet": "ANTARA - Australia menargetkan tingkat inflasi akan kembali ke kisaran target dari Reserve Bank of Australia (RBA) pada akhir 2024.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58c28cb1e5748f8a794f64c1b8e0d9b62e60771a31a211ff41.jpeg"
+    },
+    {
+      "position": 18,
+      "link": "https://www.antaranews.com/berita/4107471/analis-harga-bitcoin-menguat-dipicu-inflasi-as-yang-sesuai-ekspektasi",
+      "title": "Analis: Harga Bitcoin menguat dipicu inflasi AS yang sesuai ekspektasi",
+      "source": "ANTARA News",
+      "date": "15 hours ago",
+      "snippet": "Crypto Analyst Reku Fahmi Almuttaqin menilai harga Bitcoin yang kembali menyentuh level 66 ribu dolar AS untuk pertama kalinya sejak 24...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58ff9cf30e9cbfa30deb44be0c6e645560ec62c9e25d701c4e.jpeg"
+    },
+    {
+      "position": 19,
+      "link": "https://www.cnbcindonesia.com/market/20240516154240-19-538749/video-inflasi-as-melandai-ke-34-hingga-10-juta-gen-z-di-ri-nganggur",
+      "title": "Video: Inflasi AS Melandai ke 3,4% Hingga 10 Juta Gen Z di RI Nganggur",
+      "source": "CNBC Indonesia",
+      "date": "17 hours ago",
+      "snippet": "Jakarta, CNBC Indonesia -Inflasi di tingkat konsumen AS pada April 2024 melandai tercatat sebesar 3,4% secara tahunan, lebih rendah...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c580383b834213357860ab71b7e5d62c48d5a3e49b5a9d0a5e2.jpeg"
+    },
+    {
+      "position": 20,
+      "link": "https://www.cnbcindonesia.com/research/20240516152428-128-538746/setelah-as-semoga-china-beri-kabar-baik-hari-ini-siap-lanjut-pesta",
+      "title": "Setelah AS, Semoga China Beri Kabar Baik Hari Ini: Siap Lanjut Pesta?",
+      "source": "CNBC Indonesia",
+      "date": "4 hours ago",
+      "snippet": "Pesta penguatan pasar AS pasca perlambatan inflasi dan rilis data China menjadi sentimen penggerak pasar hari ini.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c587fcc4026ec137c4d3442c0318412b539c01c46809599cbb2.jpeg"
+    },
+    {
+      "position": 21,
+      "link": "https://www.antaranews.com/berita/4105119/ihsg-ditutup-menguat-jelang-rilis-data-inflasi-as",
+      "title": "IHSG ditutup menguat jelang rilis data inflasi AS",
+      "source": "ANTARA News",
+      "date": "1 day ago",
+      "snippet": "Indeks Harga Saham Gabungan (IHSG) Bursa Efek Indonesia (BEI) pada Rabu sore, ditutup menguat menjelang rilis data inflasi Amerika Serikat...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58ad725146ca55ea5eb313d9a17943f29e8db8c87b88a7e3aa.jpeg"
+    },
+    {
+      "position": 22,
+      "link": "https://www.cnbcindonesia.com/market/20240515084845-17-538158/investor-tunggu-data-inflasi-konsumen-as-dolar-melemah-ke-rp-16080",
+      "title": "Investor Tunggu Data Inflasi Konsumen AS, Dolar Melemah ke Rp 16.080",
+      "source": "CNBC Indonesia",
+      "date": "1 day ago",
+      "snippet": "Rupiah menguat tipis terhadap dolar AS di tengah rilis data inflasi produsen AS yang lebih tinggi dari perkiraan dan penantian rilis data...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58b6d2a170812e66024ece0f25f96bff7c03acfd5a9ec8fdb9.jpeg"
+    },
+    {
+      "position": 23,
+      "link": "https://www.antaranews.com/berita/4106241/ihsg-diprediksi-menguat-seiring-data-inflasi-as-sesuai-ekspektasi",
+      "title": "IHSG diprediksi menguat seiring data inflasi AS sesuai ekspektasi",
+      "source": "ANTARA News",
+      "date": "1 day ago",
+      "snippet": "Indeks Harga Saham Gabungan (IHSG) Bursa Efek Indonesia (BEI) pada Kamis diperkirakan bergerak menguat seiring data inflasi Amerika Serikat...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58a82c531749ce2e640409715cc01c90e5717c96f99e90e6b4.jpeg"
+    },
+    {
+      "position": 24,
+      "link": "https://www.lampungselatankab.go.id/web/2024/05/13/minggu-ke-dua-bulan-mei-tpid-lampung-selatan-kembali-ikuti-rakor-pengendalian-inflasi-daerah-2024/",
+      "title": "Minggu ke-Dua Bulan Mei, TPID Lampung Selatan Kembali Ikuti Rakor Pengendalian Inflasi Daerah 2024",
+      "source": "Pemkab Lampung Selatan",
+      "date": "3 days ago",
+      "snippet": "DISKOMINFO LAMSEL, Kalianda – Tim Pengendalian Inflasi Daerah (TPID) Lampung Selatan kembali mengikuti Rapat Koordinasi (Rakor) Pengendalian...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58c051eb84e81db2dc8e5b97aacbefbc3701ed1884e01f5c0a.jpeg"
+    },
+    {
+      "position": 25,
+      "link": "https://www.antaranews.com/berita/4105455/pemkot-solok-dukung-upaya-pengendalian-inflasi-pangan-strategis",
+      "title": "Pemkot Solok dukung upaya pengendalian inflasi pangan strategis",
+      "source": "ANTARA News",
+      "date": "1 day ago",
+      "snippet": "Pemkot Solok sebagai bagian dari Tim Pengendalian Inflasi Daerah (TPID) berkomitmen dan terus mendukung upaya pengendalian inflasi dengan...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58615345dd47e0173db1bb94665401c9f4a6a39628c3a5b41c.jpeg"
+    },
+    {
+      "position": 26,
+      "link": "https://mc.tanahbumbukab.go.id/tekan-lonjakan-inflasi-di-daerah-dkpp-tanah-bumbu-lakukan-gerakan-pangan-murah/",
+      "title": "Tekan Lonjakan Inflasi di Daerah, DKPP Tanah Bumbu Lakukan Gerakan Pangan Murah",
+      "source": "Pemerintah Kabupaten Tanah Bumbu",
+      "date": "2 days ago",
+      "snippet": "BATULICIN - Dinas Ketahanan Pangan dan Pertanian (DKPP) Kabupaten Tanah Bumbu, melakukan Gerakan Pangan Murah, bertempat di Lapangan Bola.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c5846fa90b0e747aefcd5ca619198915e0f497dd6b9da616a26.jpeg"
+    },
+    {
+      "position": 27,
+      "link": "https://site.lembatakab.go.id/2024/05/15/tekan-inflasi-daerah-pj-bupati-lembata-matheos-tan-buka-gerakan-pangan-murah/",
+      "title": "Tekan Inflasi Daerah, Pj Bupati Lembata Matheos Tan Buka Gerakan Pangan Murah",
+      "source": "lembatakab.go.id",
+      "date": "1 day ago",
+      "snippet": "Dinas Pertanian dan Ketahanan Pangan Kabupaten Lembata menggelar pangan murah. Aneka sembako pun bisa dibeli dengan harga terjangkau di...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c589ed7de8ad50a9bb348c1cfa4095d2364480c24392b29c406.jpeg"
+    },
+    {
+      "position": 28,
+      "link": "https://probolinggokab.go.id/pemkab-ikuti-rakor-pengendalian-inflasi-daerah-secara-virtual/",
+      "title": "Pemkab Ikuti Rakor Pengendalian Inflasi Daerah Secara Virtual",
+      "source": "Pemerintah Kab. Probolinggo",
+      "date": "3 days ago",
+      "snippet": "Reporter : Syamsul AkbarKRAKSAAN – Pemerintah Kabupaten (Pemkab) Probolinggo mengikuti rapat koordinasi (rakor) pengendalian inflasi daerah...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58580c6c12b5797b8dc1099403931e720fd02104941470ccb0.jpeg"
+    },
+    {
+      "position": 29,
+      "link": "https://www.antaranews.com/berita/4104252/ihsg-berpotensi-mendatar-seiring-pasar-wait-and-see-data-inflasi-as",
+      "title": "IHSG berpotensi mendatar seiring pasar wait and see data inflasi AS",
+      "source": "ANTARA News",
+      "date": "2 days ago",
+      "snippet": "Indeks Harga Saham Gabungan (IHSG) Bursa Efek Indonesia (BEI) pada Rabu berpotensi bergerak mendatar seiring pelaku pasar sedang bersikap...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58425eb00adad7759eb688fd2767f144c5b386f6731404c291.jpeg"
+    },
+    {
+      "position": 30,
+      "link": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_269024.aspx",
+      "title": "Inflasi April 2024 Terjaga",
+      "source": "Bank Indonesia",
+      "date": "2 weeks ago",
+      "snippet": "​No.26/90/DKom. Inflasi Indeks Harga Konsumen (IHK) pada April 2024 tetap terjaga dalam kisaran sasaran 2,5±1%. Berdasarkan data Badan Pusat...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58d10fa8f35a6346d915cd5569ea7d5154186c77a35bc81a52.jpeg"
+    },
+    {
+      "position": 31,
+      "link": "https://www.cnbcindonesia.com/market/20240516133727-17-538679/inflasi-as-bawa-berkah-kripto-menghijau-hingga-btc-tembus-us-65000",
+      "title": "Inflasi AS Bawa Berkah, Kripto Menghijau Hingga BTC Tembus US$65.000",
+      "source": "CNBC Indonesia",
+      "date": "19 hours ago",
+      "snippet": "Pasar kripto mengalami kenaikan hari ini, Kamis (16/5/2024) pasca inflasi konsumen Amerika Serikat (AS) terpantau melandai.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58b1c184240ce325de425dad9ecd6fa15855ce66b10f1e87c0.jpeg"
+    },
+    {
+      "position": 32,
+      "link": "https://investasi.kontan.co.id/news/harga-bitcoin-kembali-bergairah-usai-laporan-data-inflasi-as",
+      "title": "Harga Bitcoin Kembali Bergairah Usai Laporan Data Inflasi AS",
+      "source": "kontan.co.id",
+      "date": "23 hours ago",
+      "snippet": "Reporter: Akmalal Hamdhi | Editor: Tendi Mahadi. KONTAN.CO.ID - JAKARTA. Harga Bitcoin (BTC) kembali melonjak hingga US$ 66.000 atau sekitar...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c581fb4b887bd57ef48aa927ba625e36a5f95cf88cfa383c7b6.jpeg"
+    },
+    {
+      "position": 33,
+      "link": "https://market.bisnis.com/read/20240517/235/1766222/harga-emas-tergelincir-kena-aksi-taking-profit-setelah-rilis-data-inflasi",
+      "title": "Harga Emas Tergelincir Kena Aksi Taking Profit setelah Rilis Data Inflasi",
+      "source": "Bisnis.com",
+      "date": "4 hours ago",
+      "snippet": "Harga emas tergelincir pada penutupan perdagangan Kamis (16/5/2024), terkena aksi taking profit investor setelah rilis data inflasi AS.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c586bf24cf9eb5c0e1429a85a4262b74595ed73642bdec1fdf2.jpeg"
+    },
+    {
+      "position": 34,
+      "link": "https://banyuasinkab.go.id/2024/05/aksi-nyata-kendalikan-inflasi-hani-s-rustam-serahkan-bibit-benih-cabai-dan-jagung-untuk-camat-se-kabupaten-banyuasin/",
+      "title": "Aksi Nyata Kendalikan Inflasi, Hani S Rustam Serahkan Bibit/Benih Cabai dan Jagung untuk Camat Se-Kabupaten ...",
+      "source": "Banyuasin Bangkit",
+      "date": "2 days ago",
+      "snippet": "PANGKALAN BALAI — Penjabat Bupati Banyuasin H. Hani Syopiar Rustam, SH Gerak Cepat menindaklanjuti arahan Menteri Dalam Negeri RI terkait...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58dac0795b6faa99fbdb11299b6f5caf64dc9a6ae5c82287d5.jpeg"
+    },
+    {
+      "position": 35,
+      "link": "https://www.reportase9.com/tekan-laju-inflasi-disperindag-balangan-kembali-gelar-pasar-murah/",
+      "title": "Tekan Laju Inflasi, Disperindag Balangan Kembali Gelar Pasar Murah | Reportase 9",
+      "source": "Reportase 9",
+      "date": "7 hours ago",
+      "snippet": "BALANGAN, REPORTASE9.COM – Dinas Perindustrian dan Perdagangan (Disperindag) Kabupaten Balangan terus berupaya menekan laju inflasi melalui...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c5839dc0273a0a5f4ba48a491175ef50fc085b70428401ebc37.jpeg"
+    },
+    {
+      "position": 36,
+      "link": "https://www.cnbcindonesia.com/market/20240516094202-19-538593/video-inflasi-as-melandai-rupiah-sukses-ke-bawah-rp16000-per-usd",
+      "title": "Video: Inflasi AS Melandai, Rupiah Sukses ke Bawah Rp16.000 Per USD",
+      "source": "CNBC Indonesia",
+      "date": "24 hours ago",
+      "snippet": "Inflasi AS Melandai, Rupiah Menguat Ke Level Rp15.900/USD.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c5803055325f73bcb747727c0da79a1a32869037536257fde7f.jpeg"
+    },
+    {
+      "position": 37,
+      "link": "https://www.bloombergtechnoz.com/detail-news/38158/the-fed-pertahankan-suku-bunga-tinggi-inflasi-masih-fokus-utama",
+      "title": "The Fed Pertahankan Suku Bunga Tinggi, Inflasi Masih Fokus Utama - Global",
+      "source": "Bloomberg Technoz",
+      "date": "1 hour ago",
+      "snippet": "Sejumlah pejabat Federal Reserve (The Fed) menyatakan bahwa bank sentral AS tersebut harus mempertahankan suku bunga tetap tinggi.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58377c3ee2e241f2fbf34f40b7a4a2d55fac2f221de9cab867.jpeg"
+    },
+    {
+      "position": 38,
+      "link": "https://www.cnbcindonesia.com/news/20240515194223-8-538463/video-inflasi-argentina-tembus-290",
+      "title": "Video: Inflasi Argentina Tembus 290%",
+      "source": "CNBC Indonesia",
+      "date": "1 day ago",
+      "snippet": "Jakarta, CNBC Indonesia - Tingkat inflasi tahunan Argentina nyaris menyentuh 290 % pada bulan April sekaligus menjadi yang tertinggi dalam...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c5832a6ed1c69f3b89982ac7768594634be856b73cb52f1d6bd.jpeg"
+    },
+    {
+      "position": 39,
+      "link": "https://www.bloombergtechnoz.com/detail-news/38148/minyak-naik-tipis-di-tengah-ketidakpastian-pasokan-dan-inflasi",
+      "title": "Minyak Naik Tipis di Tengah Ketidakpastian Pasokan dan Inflasi - Energi",
+      "source": "Bloomberg Technoz",
+      "date": "2 hours ago",
+      "snippet": "Harga minyak diperkirakan akan membukukan kenaikan mingguan yang tipis karena harga minyak berjangka tetap dalam kisaran yang sempit.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c5824e6da6841237e7c3121ec2b9c28fc7d7513991ecebfd0f3.jpeg"
+    },
+    {
+      "position": 40,
+      "link": "https://www.cnbcindonesia.com/research/20240515175528-128-538417/kabar-gembira-inflasi-as-melandai-saatnya-ihsg-rupiah-berpesta",
+      "title": "Kabar Gembira! Inflasi AS Melandai, Saatnya IHSG & Rupiah Berpesta?",
+      "source": "CNBC Indonesia",
+      "date": "1 day ago",
+      "snippet": "Data inflasi AS menjadi sentimen pendorong pasar pada perdagangan hari ini.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58588530d3934d708fa15323ff00f03856c07a372185f2cf51.jpeg"
+    },
+    {
+      "position": 41,
+      "link": "https://www.cnbcindonesia.com/news/20240516080918-8-538560/melandai-inflasi-as-turun-ke-34-namun-masih-di-atas-target-the-fed",
+      "title": "Melandai, Inflasi AS Turun Ke 3,4% Namun Masih di Atas Target The Fed",
+      "source": "CNBC Indonesia",
+      "date": "1 day ago",
+      "snippet": "Inflasi di tingkat konsumen AS pada April 2024 melandai tercatat sebesar 3,4% secara tahunan lebih rendah dibandingkan dengan bulan...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c583f01556041690d56052514a9fb39ea58c2eb8ae828216f6f.jpeg"
+    },
+    {
+      "position": 42,
+      "link": "https://katadata.co.id/finansial/keuangan/664698691bb94/reku-inflasi-rendah-jadi-katalis-bagi-pergerakan-bitcoin",
+      "title": "Reku: Inflasi Rendah Jadi Katalis bagi Pergerakan Bitcoin",
+      "source": "Katadata.co.id",
+      "date": "3 hours ago",
+      "snippet": "Kenaikan Bitcoin juga sejalan dengan penguatan pasar saham AS di mana indeks S&P 500, Nasdaq, dan DJIA menghijau setelah rilis data inflasi.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c5894d5883f9256ba3bff9201ee41aafa28b35563b2c2ac1a9c.jpeg"
+    },
+    {
+      "position": 43,
+      "link": "https://investasi.kontan.co.id/news/harga-emas-bergerak-flat-di-tengah-penantian-data-inflasi-as",
+      "title": "Harga Emas Bergerak Flat di Tengah Penantian Data Inflasi AS",
+      "source": "kontan.co.id",
+      "date": "1 day ago",
+      "snippet": "Harga emas mendatar pada hari Rabu karena investor menantikan data inflasi AS.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c5886d7c67fc3d7756b7693284fd8b5352e1057b5b19d9a3d8f.jpeg"
+    },
+    {
+      "position": 44,
+      "link": "https://www.cnbcindonesia.com/research/20240514190412-128-538080/awas-as-bisa-kirim-3-badai-hari-ini-perang-dagang-inflasi-suku-bunga",
+      "title": "Awas! AS Bisa Kirim 3 Badai Hari Ini: Perang Dagang-Inflasi-Suku Bunga",
+      "source": "CNBC Indonesia",
+      "date": "2 days ago",
+      "snippet": "Inflasi AS, pidato Chairman The Fed Powell, neraca perdagangan April, serta rilis data SULNI diperkirakan akan menjadi penggerak pasar hari...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c589216d1d748bf0b4af6906e12fd97650b855003c26dc18b6b.jpeg"
+    },
+    {
+      "position": 45,
+      "link": "https://www.cnbcindonesia.com/market/20240516071955-17-538546/harga-minyak-naik-dipicu-data-inflasi-as-pasokan-mengetat",
+      "title": "Harga Minyak Naik Dipicu Data Inflasi AS & Pasokan Mengetat",
+      "source": "CNBC Indonesia",
+      "date": "1 day ago",
+      "snippet": "Jakarta, CNBC Indonesia - Harga minyak dunia melanjutkan penguatan pada perdagangan Kamis (16/5), setelah data inflasi AS meningkatkan...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58fde6cc0b3a9fc2b43360844ebfecc39bdbbf4913656c2307.jpeg"
+    },
+    {
+      "position": 46,
+      "link": "https://www.tribunnews.com/bisnis/2024/05/17/ihsg-ambles-sejak-awal-tahun-karena-ekspektasi-suku-bunga-tetap-tinggi-dan-risiko-inflasi",
+      "title": "IHSG Ambles Sejak Awal Tahun karena Ekspektasi Suku Bunga Tetap Tinggi dan Risiko Inflasi",
+      "source": "Tribunnews.com",
+      "date": "1 hour ago",
+      "snippet": "Investor saham saat ini sedang mengalami tekanan cukup berat karena IHSG ambles lebih dari 3 persen sejak awal tahun.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c584040fcd45659e1c3233daa1ef53c6f2270267dd070ca31a2.jpeg"
+    },
+    {
+      "position": 47,
+      "link": "https://investasi.kontan.co.id/news/harga-tembaga-naik-di-tengah-pelemahan-dolar-as-menjelang-laporan-inflasi-as",
+      "title": "Harga Tembaga Naik di Tengah Pelemahan Dolar AS Menjelang Laporan Inflasi AS",
+      "source": "kontan.co.id",
+      "date": "1 day ago",
+      "snippet": "Reporter: Tendi Mahadi | Editor: Tendi Mahadi. KONTAN.CO.ID - BEIJING. Harga tembaga naik pada hari Rabu karena melemahnya dolar AS di saat...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c5801ccd6b79aa99486332e435f681c865dcd5a54ef17e95269.jpeg"
+    },
+    {
+      "position": 48,
+      "link": "https://investasi.kontan.co.id/news/harga-emas-spot-turun-tipis-rabu-155-pasar-menantikan-data-inflasi-as",
+      "title": "Harga Emas Spot Turun Tipis Rabu (15/5), Pasar Menantikan Data Inflasi AS",
+      "source": "kontan.co.id",
+      "date": "2 days ago",
+      "snippet": "Reporter: Yudho Winarto | Editor: Yudho Winarto. KONTAN.CO.ID - Harga emas turun tipis pada hari Rabu (15/5), menjelang data inflasi utama...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c582c1871050704a48286ec1e9e004830f4d478f930cc37aba8.jpeg"
+    },
+    {
+      "position": 49,
+      "link": "https://ntbprov.go.id/post/kepala-bps-ntb-inflasi-bulanan-gabungan-di-ntb-tahun-2024-lebih-rendah-dibandingkan-inflasi-nasional",
+      "title": "Kepala BPS NTB: Inflasi Bulanan Gabungan di NTB Tahun 2024, Lebih Rendah Dibandingkan Inflasi Nasional",
+      "source": "Pemerintah Provinsi NTB",
+      "date": "2 weeks ago",
+      "snippet": "Mataram-Badan Pusat Statistik (BPS) NTB menyebutkan bahwa Inflasi gabungan tiga kota (Kota Mataram, kabupaten Sumbawa, dan Kota Bima) pada...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58195570477662d5f75a49945b36be21d5110782f72f7607c4.jpeg"
+    },
+    {
+      "position": 50,
+      "link": "https://www.cnbcindonesia.com/market/20240513222210-17-537774/wall-street-menguat-menjelang-rilis-data-inflasi-pertanda-positif",
+      "title": "Wall Street Menguat Menjelang Rilis Data Inflasi, Pertanda Positif?",
+      "source": "CNBC Indonesia",
+      "date": "3 days ago",
+      "snippet": "Bursa saham Amerika Serikat (AS) menguat menjelang rilis data inflasi.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c583adb24af59a57fd21150fcd9f5277ed1bb1899adb13be6bf.jpeg"
+    },
+    {
+      "position": 51,
+      "link": "https://money.kompas.com/read/2024/05/16/072910826/masih-terkendali-inflasi-as-bulan-april-turun-jadi-34-persen",
+      "title": "Masih Terkendali, Inflasi AS Bulan April Turun Jadi 3,4 Persen",
+      "source": "Kompas.com",
+      "date": "1 day ago",
+      "snippet": "Inflasi AS April 2024 turun, memberikan sentimen positif mengenai potensi penurunan suku bunga yang akan segera terjadi.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58f7deb708265062c971b141d9be6c71fe5b8e9f968ac40b1c.jpeg"
+    },
+    {
+      "position": 52,
+      "link": "https://www.fxstreet-id.com/news/komentar-para-pembuat-kebijakan-the-fed-ditunggu-setelah-data-inflasi-april-202405161037",
+      "title": "Data Inflasi Hidupkan Ekspektasi Penurunan Suku Bunga The Fed di September, Pengambil Kebijakan Komentari Prospek",
+      "source": "FXStreet",
+      "date": "12 hours ago",
+      "snippet": "Presiden Federal Reserve Bank Richmond Thomas Barkin mengatakan kepada CNBC pada hari Kamis bahwa Indeks Harga Konsumen (IHK) terbaru...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58db4b07924e569c6afc98ec82d51fd6858cdfcc1018ac50e4.jpeg"
+    },
+    {
+      "position": 53,
+      "link": "https://www.fxstreet-id.com/analysis/harga-minyak-menguat-karena-turunnya-cadangan-minyak-as-dan-melemahnya-inflasi-202405170125",
+      "title": "Harga Minyak Menguat karena Turunnya Cadangan Minyak AS dan Melemahnya Inflasi",
+      "source": "FXStreet",
+      "date": "1 hour ago",
+      "snippet": "Menurut Market Analyst Foreximf.com, harga minyak menguat karena turunnya cadangan minyak AS dan melemahnya inflasi.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c586a0c4be360b4a669b02e28d60114b548b317755d184761a4.jpeg"
+    },
+    {
+      "position": 54,
+      "link": "https://www.cnbcindonesia.com/market/20240515071254-17-538127/inflasi-produsen-as-bikin-ketar-ketir-kripto-balik-turun-berjamaah",
+      "title": "Inflasi Produsen AS Bikin Ketar-Ketir, Kripto Balik Turun Berjamaah",
+      "source": "CNBC Indonesia",
+      "date": "2 days ago",
+      "snippet": "Pasar kripto mengalami penurunan hari ini, Rabu (15/5/2024) pasca inflasi produsen Amerika Serikat (AS) tercatat mengalami kenaikan.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58cd8800f5f7519c18a907c58eba921219adc9ed79284cec8d.jpeg"
+    },
+    {
+      "position": 55,
+      "link": "https://www.liputan6.com/regional/read/5595763/banten-darurat-pertumbuhan-ekonomi-melambat-inflasi-meningkat",
+      "title": "Banten 'Darurat', Pertumbuhan Ekonomi Melambat, Inflasi Meningkat",
+      "source": "Liputan6.com",
+      "date": "15 hours ago",
+      "snippet": "Perekonomian Banten sedang darurat, lantaran jadi terendah di Pulau Jawa. Sekaligus pertumbuhan ekonominya yang melambat.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c588c3e5a56a071d2134362b013c712c8b79d839e86880d57e2.jpeg"
+    },
+    {
+      "position": 56,
+      "link": "https://www.metrotvnews.com/read/bmRCegoG-dolar-as-berhasil-rebound",
+      "title": "Dolar AS Berhasil Rebound",
+      "source": "metrotvnews",
+      "date": "1 hour ago",
+      "snippet": "New York: Dolar Amerika Serikat (AS) berhasil menguat pada perdagangan Kamis waktu setempat (Jumat WIB) setelah data menunjukkan harga impor...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58d1ae73ceedeaf0e44983308a07bea048582b68630f9a09a8.jpeg"
+    },
+    {
+      "position": 57,
+      "link": "https://www.cnbcindonesia.com/research/20240512152639-128-537397/inflasi-as-jadi-perhatian-pasar-pekan-depan-bakal-bergejolak",
+      "title": "Inflasi AS Jadi Perhatian Pasar Pekan Depan, Bakal Bergejolak?",
+      "source": "CNBC Indonesia",
+      "date": "4 days ago",
+      "snippet": "Perdagangan pasar keuangan Indonesia pada pekan ini hanya berlangsung 3 hari, siap-siap pekan depan bergejolak?",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58446806200cc9454a53fae428e22c105ed1433b823ffe1d5c.jpeg"
+    },
+    {
+      "position": 58,
+      "link": "https://money.kompas.com/read/2024/05/16/111200826/inflasi-as-mereda-harga-bitcoin-melesat",
+      "title": "Inflasi AS Mereda, Harga Bitcoin Melesat",
+      "source": "Kompas.com",
+      "date": "23 hours ago",
+      "snippet": "JAKARTA, KOMPAS.com - Pasar aset kripto tampak cerah pada Kamis (16/5/2024) hari ini. Harga kripto dengan kapitalisasi pasar terpantau...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58750ead72f669499073ac932dd956b08eb238de080e97b8e0.jpeg"
+    },
+    {
+      "position": 59,
+      "link": "https://www.kompasiana.com/amaliapuspitaputrinugraheni5729/6645e09b147093409109fbd2/analisis-pengaruh-inflasi-dan-tingkat-pengangguran-terhadap-pertumbuhan-ekonomi-peran-penting-dari-stabilitas-makroekonomi",
+      "title": "Analisis Pengaruh Inflasi dan Tingkat Pengangguran terhadap Pertumbuhan Ekonomi: Peran Penting dari Stabilitas Makroekonomi - Kompasiana.com",
+      "source": "Kompasiana.com",
+      "date": "16 hours ago",
+      "snippet": "Pendahuluan: Setiap negara ingin maju, tetapi pertumbuhan ekonomi tidak selalu stabil dan dapat dipengaruhi oleh banyak faktor,...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58c77941612ba5dcc681a35ccb1929156187d6ba6e20ca1645.jpeg"
+    },
+    {
+      "position": 60,
+      "link": "https://diskominfo.kaltaraprov.go.id/inflasi-april-2024-terendah-se-kalimantan/",
+      "title": "Inflasi April 2024 Terendah Se-Kalimantan – Dinas Komunikasi, Informatika, Statistik dan Persandian",
+      "source": "Kaltaraprov",
+      "date": "2 weeks ago",
+      "snippet": "TANJUNG SELOR – Kaltara menjadi satu-satunya provinsi di Kalimantan yang berhasil menekan lajunya inflasi. Alhasil, inflasi provinsi ke 34...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58ab06c970696c2b4c370b35393642e6e79842143c1cb83b30.jpeg"
+    },
+    {
+      "position": 61,
+      "link": "https://www.bareksa.com/berita/bareksa-insight/2024-05-20/bareksa-insight-inflasi-as-turun-reksadana-dan-saham-saham-ini-berpeluang-meroket",
+      "title": "Bareksa Insight : Inflasi AS Turun, Reksadana dan Saham-saham Ini Berpeluang Meroket",
+      "source": "Bareksa.com",
+      "date": "13 hours ago",
+      "snippet": "Investor berprofil risiko agresif bisa mencermati saham perbankan, properti dan otomotif seperti BBRI, BMRI, BBCA, CTRA, SMRA dan ASII.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c585bd5855f963cc54f8e33cfdf81e7f7954141ff41a65731d2.jpeg"
+    },
+    {
+      "position": 62,
+      "link": "https://databoks.katadata.co.id/datapublish/2024/05/16/pengeluaran-perawatan-pribadi-dan-jasa-lainnya-di-kab-sumenep-bulan-april-naik-3-13-",
+      "title": "Pengeluaran Perawatan Pribadi dan Jasa Lainnya di Kab. Sumenep Bulan April Naik 3,13%",
+      "source": "Databoks",
+      "date": "15 hours ago",
+      "snippet": "Di antara sembilan kelompok inflasi yang diukur di daerah ini, kelompok perawatan pribadi dan jasa lainnya menyumbang 3,13% inflasi daerah.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58cf7ba12e904061559586773f7208934763e19dfecac93a7f.png"
+    },
+    {
+      "position": 63,
+      "link": "https://investasi.kontan.co.id/news/bursa-asia-dibuka-berseri-rabu-155-pagi-ikuti-wall-street-jelang-data-inflasi-as",
+      "title": "Bursa Asia Dibuka Berseri Rabu (15/5) Pagi, Ikuti Wall Street Jelang Data inflasi AS",
+      "source": "kontan.co.id",
+      "date": "2 days ago",
+      "snippet": "Wall Street menghijau pada Selasa (14/5), dengan Nasdaq mencapai rekor penutupan tertinggi.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58037af06a49957e52263ff1ce62cbe3cd2418814267a5aba0.jpeg"
+    },
+    {
+      "position": 64,
+      "link": "https://infopublik.id/kategori/nusantara/852437/kendalikan-inflasi-pemko-palangka-raya-terus-gelar-pasar-sembako-murah",
+      "title": "Kendalikan Inflasi, Pemko Palangka Raya Terus Gelar Pasar Sembako Murah",
+      "source": "InfoPublik",
+      "date": "1 day ago",
+      "snippet": "Palangka Raya, InfoPublik - Operasi pasar sembako murah, telah menjadi program Pemerintah Kota (Pemko) Palangka Raya yang bertujuan untuk...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c582acc35baa2e7f87586966038b72da580145f8c1445bfc356.jpeg"
+    },
+    {
+      "position": 65,
+      "link": "https://diskominfo.kaltimprov.go.id/statistik/inflasi-terjadi-di-empat-kabupatenkota-kaltim-pada-april-2024",
+      "title": "Inflasi Terjadi di Empat Kabupaten/Kota Kaltim Pada April 2024",
+      "source": "Diskominfo Kaltim",
+      "date": "2 weeks ago",
+      "snippet": "Samarinda - Perkembangan harga berbagai komoditas pada April 2024 secara umum menunjukkan adanya kenaikan. Berdasarkan hasil pemantauan Badan Pusat...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c582cf70b624fb8bd3642fafc1608b665ff320f992ba5d6f4c6.jpeg"
+    },
+    {
+      "position": 66,
+      "link": "https://finansial.kontan.co.id/news/bursa-saham-as-nasdaq-sentuh-rekor-baru-investor-cermati-data-inflasi",
+      "title": "Bursa Saham AS: Nasdaq Sentuh Rekor Baru, Investor Cermati Data Inflasi",
+      "source": "kontan.co.id",
+      "date": "2 days ago",
+      "snippet": "Indeks Nasdaq ditutup pada rekor tertinggi pada hari Selasa sementara S&P 500 dan Dow Jones Industrial Average juga menguat.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c5845ee9d1601df924c00b6bbde0112bd7268b18352a94ef149.jpeg"
+    },
+    {
+      "position": 67,
+      "link": "https://www.infojambi.com/inflasi-bulanan-jambi-tetap-terkendali-pada-periode-idul-fitri-1445-hijriah",
+      "title": "Inflasi Bulanan Jambi Tetap Terkendali pada Periode Idul Fitri 1445 Hijriah",
+      "source": "Infojambi.com",
+      "date": "11 hours ago",
+      "snippet": "Secara bulanan inflasi Provinsi Jambi pada April 2024 mengalami inflasi 0,18% (mtm), lebih rendah dibanding realisasi nasional, 0,25% (mtm).",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c580d9dca324d2c230c9b2c7a7ad5d75158e9569a28b2ff3be7.jpeg"
+    },
+    {
+      "position": 68,
+      "link": "https://diskominfo.kaltaraprov.go.id/pastikan-inflasi-terkendali-gubernur-sidak-pasar-induk/",
+      "title": "Pastikan Inflasi Terkendali, Gubernur Sidak Pasar Induk – Dinas Komunikasi, Informatika, Statistik dan Persandian",
+      "source": "Kaltaraprov",
+      "date": "1 week ago",
+      "snippet": "TANJUNG SELOR – Gubernur Kalimantan Utara (Kaltara), DR (HC) H. Zainal A. Paliwang, M.Hum didampingi Kepala Biro Perekonomian Setda Kaltara,...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c584a4e2bb05b763597202a65968f7c93ddbc1c32736560b41d.jpeg"
+    },
+    {
+      "position": 69,
+      "link": "https://mmc.kalteng.go.id/berita/read/43504/pemprov-kalteng-hadiri-rakor-pengendalian-inflasi-bersama-kemendagri-ri-secara-virtual",
+      "title": "Pemprov. Kalteng Hadiri Rakor Pengendalian Inflasi bersama Kemendagri RI secara Virtual",
+      "source": "mmckalteng",
+      "date": "1 week ago",
+      "snippet": "Kontribusi dari Levrita Rahayunie, 06 Mei 2024 14:10, Dibaca 920 kali. Pemprov. Kalteng Hadiri Rakor Pengendalian Inflasi bersama Kemendagri RI secara...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58700dc4daa3027aaee5e3a0a9ef5fc77982c7cd39fc099e36.jpeg"
+    },
+    {
+      "position": 70,
+      "link": "https://www.inilah.com/cari-investasi-tahan-inflasi-wamen-tiko-sarankan-emas",
+      "title": "Cari Investasi Tahan Inflasi, Wamen Tiko Sarankan Emas",
+      "source": "Inilah.com",
+      "date": "16 hours ago",
+      "snippet": "Bagi yang punya duit lebih dan bingung memilih investasi, tak ada salahnya mengikuti saran Wakil Menteri BUMN Kartika Wirjoatmodjo yang...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58f4d692e70ad83aef7cb14cc5eaa7e787474812780bee8313.jpeg"
+    },
+    {
+      "position": 71,
+      "link": "https://money.kompas.com/read/2024/05/15/082349726/dibayangi-data-inflasi-as-wall-street-ditutup-hijau",
+      "title": "Dibayangi Data Inflasi AS, Wall Street Ditutup Hijau",
+      "source": "Kompas.com",
+      "date": "2 days ago",
+      "snippet": "Wall Street ditutup di zona hijau pada akhir perdagangan Selasa (15/5/2024) waktu setempat.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c580c32202e84511495f26bfa4dc35e2d4983dd657659a54f9f.jpeg"
+    },
+    {
+      "position": 72,
+      "link": "https://www.liputan6.com/bisnis/read/5597150/inflasi-as-naik-ini-penyumbang-terbesar",
+      "title": "Inflasi AS Naik, Ini Penyumbang Terbesar",
+      "source": "Liputan6.com",
+      "date": "22 hours ago",
+      "snippet": "Liputan6.com, Jakarta - Inflasi Amerika Serikat sedikit menurun pada April 2024, setidaknya memberikan sedikit kelegaan bagi konsumen tetapi...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58a1a4b0570d63a6544a1303789297887352ee4718bfc851be.jpeg"
+    },
+    {
+      "position": 73,
+      "link": "https://www.cnbcindonesia.com/market/20240516083739-17-538570/breaking-rupiah-menguat-dolar-turun-ke-rp-15900",
+      "title": "Breaking! Rupiah Menguat, Dolar Turun ke Rp 15.900",
+      "source": "CNBC Indonesia",
+      "date": "1 day ago",
+      "snippet": "Jakarta, CNBC Indonesia - Rupiah menguat terhadap dolar Amerika Serikat (AS), setelah rilis data inflasi AS yang lebih rendah dari perkiraan...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58979d2f35eee60dc2763027c83bbca8fc7ac3e953062a4fc8.jpeg"
+    },
+    {
+      "position": 74,
+      "link": "https://www.cnbcindonesia.com/research/20240516063915-128-538533/efek-amerika-dahsyat-harga-bitcoin-langsung-meroket-tembus-us-65000",
+      "title": "Efek Amerika Dahsyat! Harga Bitcoin Langsung Meroket Tembus US$65.000",
+      "source": "CNBC Indonesia",
+      "date": "1 day ago",
+      "snippet": "Amerika Serikat (AS) telah merilis data inflasi yang terpantau mendingin. Hal ini menjadi sentimen positif bagi harga bitcoin.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58a0e52bdc214bfb09cab20561d2f89dd6fc26abbce153e013.jpeg"
+    },
+    {
+      "position": 75,
+      "link": "https://jatengprov.go.id/publik/sumarno-beberkan-jurus-tekan-inflasi-pada-kepala-daerah/",
+      "title": "Sumarno Beberkan Jurus Tekan Inflasi pada Kepala Daerah",
+      "source": "Pemerintah Provinsi Jawa Tengah",
+      "date": "2 weeks ago",
+      "snippet": "SEMARANG - Sekretaris Daerah Provinsi Jawa Tengah Sumarno menyebut, inflasi di Jawa Tengah pada momen Lebaran 2024, relatif terkendali.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c580fe966cef961b482b0082783f09cb8c88b295edc076b460c.jpeg"
+    },
+    {
+      "position": 76,
+      "link": "https://banyuasinkab.go.id/2024/05/upaya-tekan-laju-inflasi-kini-operasi-pasar-khusus-dan-reguler-di-gelar/",
+      "title": "Upaya Tekan Laju Inflasi, Kini Operasi Pasar Khusus dan Reguler di Gelar",
+      "source": "Banyuasin Bangkit",
+      "date": "1 week ago",
+      "snippet": "PULAU — Dalam menekan laju inflasi daerah, Pemerintah Kabupaten Banyuasin (Pemkab) melalui Dinas Koperasi Usaha Kecil Menengah Perindustrian...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58424dbe750a45f72ced7d2b63bfb61971033694157a8865d0.jpeg"
+    },
+    {
+      "position": 77,
+      "link": "https://www.lampungselatankab.go.id/web/2024/05/06/tpid-lampung-selatan-kembali-ikuti-rakor-pengendalian-inflasi/",
+      "title": "TPID Lampung Selatan Kembali Ikuti Rakor Pengendalian Inflasi",
+      "source": "Pemkab Lampung Selatan",
+      "date": "1 week ago",
+      "snippet": "DISKOMINFO LAMSEL, Kalianda – Tim Pengendalian Inflasi Daerah (TPID) Kabupaten Lampung Selatan kembali mengikuti rapat koordinasi (Rakor)...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c589908447fd4ccf02895a9f3fba09caa11c2c9c31cf8eb8362.jpeg"
+    },
+    {
+      "position": 78,
+      "link": "https://www.beritasatu.com/ekonomi/2816785/harga-minyak-turun-karena-data-inflasi-as",
+      "title": "Harga Minyak Turun karena Data Inflasi AS",
+      "source": "BeritaSatu.com",
+      "date": "2 days ago",
+      "snippet": "Harga minyak turun pada Selasa (14/5/2024) setelah data Amerika Serikat (AS) menimbulkan kekhawatiran bahwa suku bunga kemungkin tetap...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58306c703dff2662efe0c790423ba5e702e1e9352c71a545f0.jpeg"
+    },
+    {
+      "position": 79,
+      "link": "https://www.neraca.co.id/article/198878/april-2024-kota-sukabumi-alami-inflasi-y-on-y-sebesar-288-persen",
+      "title": "April 2024, Kota Sukabumi Alami Inflasi Y-on-Y Sebesar 2,88 Persen | Neraca.co.id",
+      "source": "Neraca.co.id",
+      "date": "22 hours ago",
+      "snippet": "Sukabumi - Secara Year on Year (y-on-y), Kota Sukabumi alami inflasi sebesar 2,88 persen pada April 2024, dengan Indek Harga Konsumen...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58965ab60c5fed9b6dbdb5be0872ba496601d22208b574e3dc.jpeg"
+    },
+    {
+      "position": 80,
+      "link": "https://mmc.kalteng.go.id/berita/read/43510/evaluasi-inflasi-kalteng-sahli-yuas-eko-pimpin-rapat-tpid-terhadap-rilis-bps-bulan-april-2024",
+      "title": "Evaluasi Inflasi Kalteng, Sahli Yuas Eko Pimpin Rapat TPID terhadap Rilis BPS bulan April 2024",
+      "source": "mmckalteng",
+      "date": "1 week ago",
+      "snippet": "Kontribusi dari Levrita Rahayunie, 06 Mei 2024 17:50, Dibaca 958 kali. Evaluasi Inflasi Kalteng, Sahli Yuas Eko Pimpin Rapat TPID terhadap Rilis BPS bulan...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c5897171ab2f6337d5ead49844fffc3efc3e33658caacb70226.jpeg"
+    },
+    {
+      "position": 81,
+      "link": "https://www.metrotvnews.com/read/KZmCdJRA-wall-street-menguat-berkat-meredanya-inflasi-as",
+      "title": "Wall Street Menguat Berkat Meredanya Inflasi AS",
+      "source": "metrotvnews",
+      "date": "1 day ago",
+      "snippet": "Dow Jones Industrial Average naik 349 poin atau 0,9 persen, S&P 500 naik 1,2 persen lebih tinggi, dan NASDAQ Composite naik 1,4 persen.",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58e383bb77fa51c0b70329b75a4d67b3060d9632e346446ef2.jpeg"
+    },
+    {
+      "position": 82,
+      "link": "https://www.fxstreet-id.com/analysis/data-inflasi-harus-diperlakukan-dengan-hati-hati-202405160924",
+      "title": "Data Inflasi Harus Diperlakukan dengan Hati-Hati",
+      "source": "FXStreet",
+      "date": "18 hours ago",
+      "snippet": "Pasar Eropa gagal mengikuti tema bullish yang ditetapkan di AS, setelah ketiga indeks utama AS mencapai rekor tertinggi setelah angka...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c581901a3dc0204ae203452cbf22b9f1edadf08ed79464dd1c2.jpeg"
+    },
+    {
+      "position": 83,
+      "link": "https://jabarprov.go.id/berita/pemdaprov-jabar-terus-upayakan-inflasi-terkendali-13339",
+      "title": "Pemdaprov Jabar Terus Upayakan Inflasi Terkendali",
+      "source": "Jabarprov",
+      "date": "2 weeks ago",
+      "snippet": "Pemda Provinsi Jawa Barat berkomitmen dalam mengawal dan menjaga stabilitas inflasi. Hal ini merupakan salah satu kewajiban pemerintah dalam...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c5883cd351e354b2df9d556347bb108cab9cafbb63bc7c5df97.jpeg"
+    },
+    {
+      "position": 84,
+      "link": "https://ntbprov.go.id/post/rakor-inflasi-rutin-mendagri-apresiasi-kinerja-pj-gubernur-ntb-dalam-mengendalikan-iph-minus-419-terendah-nasional",
+      "title": "Rakor Inflasi Rutin: Mendagri Apresiasi Kinerja Pj Gubernur NTB dalam Mengendalikan IPH Minus 4,19% Terendah ...",
+      "source": "Pemerintah Provinsi NTB",
+      "date": "2 weeks ago",
+      "snippet": "Mataram, NTB - Dalam Rapat Koordinasi (Rakor) Inflasi Rutin yang diselenggarakan, Menteri Dalam Negeri (Mendagri) mengapresiasi kinerja Pj...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58bb8409465c9e86a47b82023e99d478573fef285819c47f0c.jpeg"
+    },
+    {
+      "position": 85,
+      "link": "https://semarangkota.go.id/p/5898/Rapat-Koordinasi-Pengendalian-Inflasi-Daerah",
+      "title": "Rapat Koordinasi Pengendalian Inflasi Daerah",
+      "source": "Pemerintah Kota Semarang",
+      "date": "2 weeks ago",
+      "snippet": "30 April 2024 • 10:33 • Dilihat 34x • • Berita. Rapat Koordinasi Pengendalian Inflasi Daerah. Pemerintah Kota Semarang mengikuti Rapat Koordinasi...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58f36bd6bfc190e8eafbd7a5da922146aceaa7f2a3800679a4.jpeg"
+    },
+    {
+      "position": 86,
+      "link": "https://kalsel.antaranews.com/berita/414912/tanah-bumbu-gelar-pasar-murah-cegah-inflasi",
+      "title": "Tanah Bumbu gelar pasar murah cegah inflasi",
+      "source": "ANTARA News Kalimantan Selatan",
+      "date": "1 day ago",
+      "snippet": "Dinas Ketahanan Pangan dan Pertanian DKPP Kabupaten Tanah Bumbu Provinsi Kalimantan Selatan menggelar pasar murah untuk mencegah inflasi di...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58fbff675b65d30ebe8302168508222e37de08d142d33de2f7.jpeg"
+    },
+    {
+      "position": 87,
+      "link": "https://jabarprov.go.id/berita/inflasi-april-2024-di-jawa-barat-terkendali-13337",
+      "title": "Inflasi April 2024 di Jawa Barat Terkendali",
+      "source": "Jabarprov",
+      "date": "2 weeks ago",
+      "snippet": "Badan Pusat Statistik (BPS) Jawa Barat merilis angka inflasi Jabar selama bulan April 2024. Inflasi tercatat masih terkendali dan sesuai...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c5840808af03c9befa6b33e0f62fd7b8d3b38fef7c559122944.jpeg"
+    },
+    {
+      "position": 88,
+      "link": "https://www.fxstreet-id.com/analysis/xau-usd-bullish-usai-rilis-data-inflasi-as-202405161023",
+      "title": "XAUUSD Bullish Usai Rilis Data Inflasi AS",
+      "source": "FXStreet",
+      "date": "17 hours ago",
+      "snippet": "Analisa Teknikal Continuation Bullish / Naik Level Demand : 2384.22 - 2378.54 Prediksi untuk emas untuk pagi ini sesuai dengan prediksi saat...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c589e5071fac37b67754fb4ad48fe371ca09b807e3d2c2a58a3.jpeg"
+    },
+    {
+      "position": 89,
+      "link": "https://mediaindonesia.com/jabar/berita/671480/tekan-inflasi-ciamis-gelar-operasi-pasar-murah",
+      "title": "Tekan Inflasi, Ciamis Gelar Operasi Pasar Murah",
+      "source": "Media Indonesia",
+      "date": "15 hours ago",
+      "snippet": "PEMERINTAH Kabupaten Ciamis menggelar operasi pasar murah bagi masyarakat untuk mengendalikan laju inflasi. Pasar murah dilaksanakan di...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58959db9ec3d154295137803fd6f969ad8e2eafc85984c940d.jpeg"
+    },
+    {
+      "position": 90,
+      "link": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_266524.aspx",
+      "title": "Inflasi Maret 2024 Terjaga",
+      "source": "Bank Indonesia",
+      "date": "1 month ago",
+      "snippet": "Inflasi Maret 2024 Terjaga ... Inflasi Indeks Harga Konsumen (IHK) pada Maret 2024 tetap terjaga dalam kisaran sasaran 2,5±1%. Berdasarkan data...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c584fa944aef7ccd7409dd4d7cd61217fb84e9bfe77386befc6.jpeg"
+    },
+    {
+      "position": 91,
+      "link": "https://serumpun.babelprov.go.id/bps-kep-babel-resmi-rilis-data-inflasi-april-2024",
+      "title": "BPS Kep. Babel Resmi Rilis Data Inflasi April 2024",
+      "source": "Pemerintah Provinsi Kepulauan Bangka Belitung",
+      "date": "2 weeks ago",
+      "snippet": "PANGKALPINANG - Badan Pusat Statistik (BPS) resmi merilis Indeks Harga Konsumen (IHK)/Inflasi April 2024 Provinsi Kepulauan Bangka Belitung,...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c586cfc340b870b6eeb431704cefa021d128a99c4840a3f0c08.jpeg"
+    },
+    {
+      "position": 92,
+      "link": "https://jabarprov.go.id/berita/bps-rilis-inflasi-april-2024-kota-bandung-masih-terendah-di-jabar-13345",
+      "title": "BPS Rilis Inflasi April 2024, Kota Bandung Masih Terendah di Jabar",
+      "source": "Jabarprov",
+      "date": "2 weeks ago",
+      "snippet": "Badan Pusat Statistik (BPS) Kota Bandung merilis Perkembangan Indeks Harga Konsumen Kota Bandung April 2024. Hasilnya, pada April 2024...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58c1d1ce6872a07fcc06457a9439a44f5fcfddf37d034ae9da.jpeg"
+    },
+    {
+      "position": 93,
+      "link": "https://investasi.kontan.co.id/news/harga-emas-spot-naik-lebih-1-ke-us23866-setelah-rilis-inflasi-as-rabu-155",
+      "title": "Harga Emas Spot Naik Lebih 1% ke US$2.386,6 Setelah Rilis Inflasi AS, Rabu (15/5)",
+      "source": "kontan.co.id",
+      "date": "1 day ago",
+      "snippet": "Sumber: Reuters | Editor: Yudho Winarto. KONTAN.CO.ID - Harga emas naik mendekati level tertingginya dalam satu bulan pada hari Rabu (15/5),...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c58dc13d661cf5b3b4e691f7c50780f3f68285f0b8bd5949aeb.jpeg"
+    },
+    {
+      "position": 94,
+      "link": "https://bisnis.solopos.com/dipengaruhi-penurunan-inflasi-indeks-harga-konsumen-as-rupiah-ditutup-menguat-1922832",
+      "title": "Dipengaruhi Penurunan Inflasi Indeks Harga Konsumen AS, Rupiah Ditutup Menguat",
+      "source": "Solopos.com",
+      "date": "17 hours ago",
+      "snippet": "Nilai tukar rupiah terhadap dolar AS pada perdagangan Kamis (16/5/2024) ditutup menguat dipengaruhi oleh penurunan inflasi Indeks Harga...",
+      "thumbnail": "https://serpapi.com/searches/6646c6fbf26ac60c4195fd18/images/a7975b7794429c5842289dd32f0122bb75125a5e71e73e8eb0f056a5fa40cebc.jpeg"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=inflasi&num=100&sca_esv=7eaaf1f71c224ebe&sca_upv=1&gl=id&hl=en&tbm=nws&ei=_MZGZoiiPJ3R5NoP7NWmiAk&start=100&sa=N&ved=2ahUKEwiIkMfO15OGAxWdKFkFHeyqCZEQ8NMDegQIBBAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=inflasi&num=100&sca_esv=7eaaf1f71c224ebe&sca_upv=1&gl=id&hl=en&tbm=nws&ei=_MZGZoiiPJ3R5NoP7NWmiAk&start=100&sa=N&ved=2ahUKEwiIkMfO15OGAxWdKFkFHeyqCZEQ8tMDegQIBBAE",
+      "3": "https://www.google.com/search?q=inflasi&num=100&sca_esv=7eaaf1f71c224ebe&sca_upv=1&gl=id&hl=en&tbm=nws&ei=_MZGZoiiPJ3R5NoP7NWmiAk&start=200&sa=N&ved=2ahUKEwiIkMfO15OGAxWdKFkFHeyqCZEQ8tMDegQIBBAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=id&google_domain=google.com&hl=en&num=100&q=inflasi&start=100&tbm=nws",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=id&google_domain=google.com&hl=en&num=100&q=inflasi&start=100&tbm=nws",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=id&google_domain=google.com&hl=en&num=100&q=inflasi&start=100&tbm=nws",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=id&google_domain=google.com&hl=en&num=100&q=inflasi&start=200&tbm=nws"
+    }
+  }
+}

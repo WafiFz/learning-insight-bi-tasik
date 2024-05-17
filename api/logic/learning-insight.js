@@ -2,7 +2,7 @@ const { getJson } = require("serpapi");
 const natural = require("natural");
 const Sentiment = require("sentiment");
 const stemmer = natural.PorterStemmer;
-const fs = require('fs');
+const fs = require("fs");
 const {
   google_search_news_data,
 } = require("../example-response/google-search-news");
@@ -40,10 +40,10 @@ async function getNews(req, res) {
 
     const newsResults = data.news_results;
     let sentimentScores = [];
-    let allTokens = [];
-    let positiveTokens = [];
-    let negativeTokens = [];
-    let neutralTokens = [];
+    let allTokens = {};
+    let positiveTokens = {};
+    let negativeTokens = {};
+    let neutralTokens = {};
 
     newsResults.forEach((news) => {
       const text = `${news.title} ${news.snippet}`;
@@ -51,78 +51,83 @@ async function getNews(req, res) {
       const sentimentResult = analyzeSentiment(processedText.join(" "));
       sentimentScores.push(sentimentResult.score);
 
-      // Add tokens to respective arrays based on sentiment score
+      // Add tokens to respective objects based on sentiment score
       const processedTextWordCloud = processTextWordCloud(text);
       if (sentimentResult.score > 0) {
-        positiveTokens = positiveTokens.concat(processedTextWordCloud);
+        mergeWordCloudTokens(positiveTokens, processedTextWordCloud);
       } else if (sentimentResult.score < 0) {
-        negativeTokens = negativeTokens.concat(processedTextWordCloud);
+        mergeWordCloudTokens(negativeTokens, processedTextWordCloud);
       } else {
-        neutralTokens = neutralTokens.concat(processedTextWordCloud);
+        mergeWordCloudTokens(neutralTokens, processedTextWordCloud);
       }
 
       // Combine all tokens for overall wordcloud
-      allTokens = allTokens.concat(processedTextWordCloud);
+      mergeWordCloudTokens(allTokens, processedTextWordCloud);
     });
 
     const averageSentiment =
       sentimentScores.reduce((a, b) => a + b, 0) / sentimentScores.length;
 
+    // Remove query tokens from word cloud tokens
+    const queryTokens = tokenizer.tokenize(normalizeText(q));
+    queryTokens.forEach((token) => {
+      delete allTokens[token];
+      delete positiveTokens[token];
+      delete negativeTokens[token];
+      delete neutralTokens[token];
+    });
+
     res.json({
       averageSentiment,
+      allNews: {
+        news: newsResults,
+        wordCloudTokens: convertToWordCloudArray(allTokens),
+      },
       positiveNews: {
         news: newsResults.filter((news, index) => sentimentScores[index] > 0),
-        wordCloudTokens: positiveTokens,
+        wordCloudTokens: convertToWordCloudArray(positiveTokens),
       },
       negativeNews: {
         news: newsResults.filter((news, index) => sentimentScores[index] < 0),
-        wordCloudTokens: negativeTokens,
+        wordCloudTokens: convertToWordCloudArray(negativeTokens),
       },
       neutralNews: {
         news: newsResults.filter((news, index) => sentimentScores[index] === 0),
-        wordCloudTokens: neutralTokens,
+        wordCloudTokens: convertToWordCloudArray(neutralTokens),
       },
-      wordTokens: allTokens,
     });
   } catch (error) {
     res.status(500).send(error.toString());
   }
 }
 
-// function processText(text) {
-//   const tokens = tokenizer.tokenize(text);
-//   return tokens;
-// }
-
-// function analyzeSentiment(text) {
-//   const result = sentiment.analyze(text);
-//   return result;
-// }
-
 // Baca file teks yang berisi daftar kata positif dan negatif
 function readWordList(filename) {
-  return fs.readFileSync(filename, 'utf8').split('\n').map(word => word.trim());
+  return fs
+    .readFileSync(filename, "utf8")
+    .split("\n")
+    .map((word) => word.trim());
 }
 
 function processText(text) {
   // Tokenisasi teks menjadi kata-kata
   const tokens = tokenizer.tokenize(text);
-  
+
   // Lakukan stemming untuk setiap kata
-  const stemmedTokens = tokens.map(token => stemmer.stem(token));
-  
+  const stemmedTokens = tokens.map((token) => stemmer.stem(token));
+
   return stemmedTokens;
 }
 
 function analyzeSentiment(text) {
-  const positiveWords = readWordList('api/document/positive.txt');
-  const negativeWords = readWordList('api/document/negative.txt');
+  const positiveWords = readWordList("api/document/positive.txt");
+  const negativeWords = readWordList("api/document/negative.txt");
 
-  const words = text.split(' ');
+  const words = text.split(" ");
   let positiveCount = 0;
   let negativeCount = 0;
 
-  words.forEach(word => {
+  words.forEach((word) => {
     if (positiveWords.includes(word)) {
       positiveCount++;
     } else if (negativeWords.includes(word)) {
@@ -131,11 +136,11 @@ function analyzeSentiment(text) {
   });
 
   if (positiveCount > negativeCount) {
-    return { result: 'positif', score: 1};
+    return { result: "positif", score: 1 };
   } else if (negativeCount > positiveCount) {
-    return { result: 'negatif', score: -1};
+    return { result: "negatif", score: -1 };
   } else {
-    return { result: 'netral', score: 0};
+    return { result: "netral", score: 0 };
   }
 }
 
@@ -156,12 +161,24 @@ function processTextWordCloud(text) {
     }
   });
 
-  const wordTokens = Object.entries(wordMap).map(([text, value]) => ({
+  return wordMap;
+}
+
+function mergeWordCloudTokens(target, source) {
+  Object.entries(source).forEach(([word, count]) => {
+    if (target[word]) {
+      target[word] += count;
+    } else {
+      target[word] = count;
+    }
+  });
+}
+
+function convertToWordCloudArray(wordMap) {
+  return Object.entries(wordMap).map(([text, value]) => ({
     text,
     value,
   }));
-
-  return wordTokens;
 }
 
 module.exports = {
