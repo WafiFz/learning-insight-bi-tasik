@@ -26,17 +26,17 @@ async function getNews(req, res) {
       tbm: "nws",
     };
 
-    // const data = await new Promise((resolve, reject) => {
-    //   getJson(params, (result) => {
-    //     if (result && result.news_results) {
-    //       resolve(result);
-    //     } else {
-    //       reject("No news results found.");
-    //     }
-    //   });
-    // });
+    const data = await new Promise((resolve, reject) => {
+      getJson(params, (result) => {
+        if (result && result.news_results) {
+          resolve(result);
+        } else {
+          reject("No news results found.");
+        }
+      });
+    });
 
-    const data = google_search_news_data;
+    // const data = google_search_news_data;
 
     const newsResults = data.news_results;
     let sentimentScores = [];
