@@ -2,8 +2,9 @@ const dotenv = require("dotenv");
 dotenv.config();
 
 const express = require("express");
+const bodyParser = require('body-parser');
 const app = express();
-const cors = require('cors');
+const cors = require("cors");
 const port = process.env.PORT;
 const tribunnews = require("./api/tribunnews");
 const cnnindonesia = require("./api/cnnindonesia");
@@ -11,12 +12,15 @@ const tempo = require("./api/tempo");
 const kompas = require("./api/kompas");
 const liputan6 = require("./api/liputan6");
 const li = require("./api/logic/learning-insight");
+const summary = require("./api/logic/generate-summary");
 
 app.use(cors());
-app.use(cors({
-  origin: '*',
-}));
-
+app.use(
+  cors({
+    origin: "*",
+  })
+);
+app.use(bodyParser.json());
 
 app.get("/", async (req, res) => {
   res.setHeader("Content-Type", "application/json");
@@ -219,6 +223,8 @@ app.get("/search/tribunnews/:keyword", async (req, res) => {
 });
 
 app.get("/search/google", li.getNews);
+
+app.post("/news/summaries", summary.generateSummaries);
 
 app.listen(process.env.PORT || port, () => {
   console.log(`Web app listening on port ${port}`);
