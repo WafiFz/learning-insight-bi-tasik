@@ -6,6 +6,7 @@ const fs = require("fs");
 const {
   google_search_news_data,
 } = require("../example-response/google-search-news");
+const summary = require("./generate-summary");
 
 const tokenizer = new natural.WordTokenizer();
 const sentiment = new Sentiment();
@@ -77,25 +78,42 @@ async function getNews(req, res) {
       delete neutralTokens[token];
     });
 
-    res.json({
+    const result = {
       averageSentiment,
       allNews: {
         news: newsResults,
         wordCloudTokens: convertToWordCloudArray(allTokens),
+        summary: await summary.generateSummary(summary.prepareContent(newsResults, ""))
       },
       positiveNews: {
         news: newsResults.filter((news, index) => sentimentScores[index] > 0),
         wordCloudTokens: convertToWordCloudArray(positiveTokens),
+        summary: await summary.generateSummary(summary.prepareContent(
+          newsResults.filter((news, index) => sentimentScores[index] > 0),
+          "positif"
+        ))
       },
       negativeNews: {
         news: newsResults.filter((news, index) => sentimentScores[index] < 0),
         wordCloudTokens: convertToWordCloudArray(negativeTokens),
+        summary: await summary.generateSummary(summary.prepareContent(
+          newsResults.filter((news, index) => sentimentScores[index] < 0),
+          "negatif"
+        ))
       },
       neutralNews: {
         news: newsResults.filter((news, index) => sentimentScores[index] === 0),
         wordCloudTokens: convertToWordCloudArray(neutralTokens),
+        summary: await summary.generateSummary(summary.prepareContent(
+          newsResults.filter((news, index) => sentimentScores[index] === 0),
+          "netral"
+        ))
       },
-    });
+    };
+
+    console.log(result)
+
+    res.json(result);
   } catch (error) {
     res.status(500).send(error.toString());
   }

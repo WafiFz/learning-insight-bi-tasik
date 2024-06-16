@@ -81,4 +81,4 @@ const generateSummary = async (content) => {
   return summary;
 };
 
-module.exports = { generateSummaries };
+module.exports = { generateSummaries, prepareContent, generateSummary };
